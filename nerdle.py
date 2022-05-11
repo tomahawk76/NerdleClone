@@ -1,4 +1,3 @@
-from ast import Sub
 import pyinputplus as pyinp
 import random
 
